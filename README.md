@@ -68,6 +68,11 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 5. Include screenshots of your CI/CD pipeline in action
 6. Add URLs to your deployed applications
 
+## Screenshots
+![alt text](dashboard.png)
+![alt text](users.png)
+![alt text](health.png)
+![alt text](recruit.png)
 ## Resources
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
