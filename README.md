@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19984335&assignment_repo_type=AssignmentRepo)
 # Deployment and DevOps for MERN Applications
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
@@ -66,6 +67,14 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 4. Document your deployment process in the README.md
 5. Include screenshots of your CI/CD pipeline in action
 6. Add URLs to your deployed applications
+
+## Screenshots
+<img width="1914" height="916" alt="dashboard" src="https://github.com/user-attachments/assets/9de5ef74-f5fc-43f8-ae7f-5bc93e632d73" />
+<img width="1918" height="675" alt="users" src="https://github.com/user-attachments/assets/fca537cb-4ccc-43ee-aa3f-3c788e3eebf4" />
+<img width="1896" height="595" alt="recruit" src="https://github.com/user-attachments/assets/4703e40d-34a5-4b33-ab57-a858103028db" />
+<img width="1920" height="617" alt="health" src="https://github.com/user-attachments/assets/5a245fd4-c759-4bf6-892c-f73c4e02dcc0" />
+
+
 
 ## Resources
 
